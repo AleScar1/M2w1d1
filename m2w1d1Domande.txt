@@ -1,0 +1,27 @@
+domanda 1 algoritmo
+risposta domanda 1 :  
+un algoritmo sono delle istruzioni che devono essere eseguite per arrivare ad un risultato.
+l'algoritmo lo possiamo immaginare come un ricetta per fare una torta.
+per fare la torta ci sono dei passaggi da eseguire e questi passaggi devono essere eseguiti con un ordine prestabilito.
+
+
+
+domanda 2 variabile
+risposta domanda 2 : 
+variabile è come un contenitore, all'interno di questo contenitore puoi inserire tutti i valori forniti da js.
+ricollegandoci alla ricetta in cucina un esemio di contenitore potrebbe essere una ciotola dove versiamo il latte ed il burro oppure dove inseriamo della farina. 
+
+
+domanda 3 undefained e null
+risposta domanda 3 : 
+undefained quando un oggetto non è stato definito
+null l'oggetto non ha alcun valore
+
+
+
+
+
+
+
+
+
